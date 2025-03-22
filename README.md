@@ -1,5 +1,6 @@
 # Mental-health
-#This dataset contains students information related to their mental health. The aim of this dataset is to provide insights into different aspects of student life that may contribute to mental health conditions, such as depression and suicidal thoughts. There are 27902 rows and 18 columns.  
+This dataset contains students information related to their mental health. The aim of this dataset is to provide insights into different aspects of student life that may contribute to mental health conditions, such as depression and suicidal thoughts. There are 27902 rows and 18 columns.  
+
 The columns include:  
 id: A unique identification of every student in the dataset  
 Gender: Male/Female  
